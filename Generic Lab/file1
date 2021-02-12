@@ -1,0 +1,2 @@
+I wasn't able to get rid of every instance of Measurable from the DataSet.java provided, I don't know how to get a generic member (T maximum) or parameter (T x in the add method)
+the ability to access Measurable class methods without getting an error.
